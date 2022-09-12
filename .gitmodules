@@ -1,3 +1,9 @@
 [submodule "DTW_cpp"]
 	path = DTW_cpp
 	url = https://github.com/cjekel/DTW_cpp.git
+[submodule "kissfft"]
+	path = kissfft
+	url = https://github.com/mborgerding/kissfft.git
+[submodule "matplotlib-cpp"]
+	path = matplotlib-cpp
+	url = https://github.com/lava/matplotlib-cpp.git
